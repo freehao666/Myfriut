@@ -8,6 +8,7 @@ class Demo01ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println(" 这是我在进行中文代码测试，用于上传于github。");
     }
 
 }
